@@ -1,1 +1,1 @@
-!dogs.gif
+!(dogs.gif)
